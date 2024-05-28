@@ -6,6 +6,7 @@
 - fix bug in migration writer for new fields
 - client : activate copmlete dialog for number field
 - client : limit the length of the field to max 300 pixels
+- server : add description for vendor quote line , customer quote line , finance transaction line
 #### 27.05.2024
 - enhance field UI
 - enhance action button render
